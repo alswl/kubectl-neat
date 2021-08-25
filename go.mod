@@ -1,4 +1,4 @@
-module github.com/itaysk/kubectl-neat
+module github.com/itaysk/kubectl-neat/v2
 
 go 1.12
 
